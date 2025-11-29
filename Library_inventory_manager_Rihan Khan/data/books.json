@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Introduction to Programming",
+        "author": "A. Author",
+        "isbn": "9781111111111",
+        "status": "available"
+    },
+    {
+        "title": "Data Structures and Algorithms",
+        "author": "B. Writer",
+        "isbn": "9782222222222",
+        "status": "issued"
+    }
+]
